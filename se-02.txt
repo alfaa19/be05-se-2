@@ -1,0 +1,16 @@
+nama : Alfa Adriel Monico
+url profile github: github.com/alfaa19
+algoritma: makan telur rebus,
+           telurnya ada di dapur dan masih mentah,
+           saya ada di kamar.
+    1. Mulai
+    2. Pergi ke dapur
+    3. Tuangkan air kedalam panci 
+    4. Masak air hingga mendidih
+    5. Masukan telur kedalam panci
+    6. Tunggu sampai telur sudah matang sekitar 15 menit
+    7. Tiriskan telur
+    8. Kupas telur 
+    9. makan telur rebus
+    10.Selesai
+
